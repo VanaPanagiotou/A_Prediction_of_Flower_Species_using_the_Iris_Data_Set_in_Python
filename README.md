@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Project Description](#Project-Description)
-* [Packages Required](#Packages-Required)
+* [Libraries Required](#Libraries-Required)
 * [Descriptive Statistics and Exploratory Analysis](#Descriptive-Statistics-and-Exploratory-Analysis)
 * [Splitting the Data into Training and Testing Sets](#Splitting-the-Data-into-Training-and-Testing-Sets)
 * [Model Building](#Model-Building)
@@ -14,7 +14,7 @@ This project is a classification task, whose purpose is to classify the iris flo
 available attributes. The three iris species include Setosa, Versicolor and Virginica, and the explanatory variables (attributes) 
 include sepal length, sepal width, pedal length and petal width. 
 
-## <a name="Packages-Required"></a> Packages Required
+## <a name="Libraries-Required"></a> Libraries Required
 
 Here are the required libraries to run the code properly:
 ```
